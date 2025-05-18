@@ -1,7 +1,7 @@
 <header>
 
 # Hello GitHub Actions
-
+Pedro Domingues
 _Create and run a GitHub Actions workflow._
 
 </header>
